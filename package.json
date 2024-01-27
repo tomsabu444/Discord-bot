@@ -1,0 +1,19 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "simple discordbot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js",
+    "dev": "node bot.js"
+  },
+  "author": "TOM SABU",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
